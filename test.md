@@ -16,4 +16,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] This item is not complete
 
   
+  Gone camping! :tent: Be back soon
+  
+  That is so funny! :joy:
+  
+  
 # **This is test extension .md (markdown)**
